@@ -1,0 +1,12 @@
+# Pin the exact versions from your working local env (pip freeze) before deploying.
+streamlit
+anthropic
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-core
+faiss-cpu
+pypdf
+pymupdf
+reportlab
+python-dotenv
